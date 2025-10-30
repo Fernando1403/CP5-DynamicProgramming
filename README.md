@@ -1,8 +1,8 @@
 # Desafio: Troca de Moedas — Checkpoint 05
 
-- | Fernando Gonzales Alexandre - RM: 555045 |
-- | Lucas Dias - RM: 555450 |
-- | Vitor Teixeira - RM: 555012 |
+-  Fernando Gonzales Alexandre - RM: 555045 
+-  Lucas Dias - RM: 555450 
+-  Vitor Teixeira - RM: 555012 
 
 ---
 
